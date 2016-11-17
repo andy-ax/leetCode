@@ -1,0 +1,9 @@
+/**
+ * 79ms
+ * @param {number} n
+ * @return {boolean}
+ */
+var canWinNim = function(n) {
+    return n%4 ? true : false;
+};
+canWinNim(99);
