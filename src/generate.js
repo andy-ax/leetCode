@@ -1,5 +1,5 @@
 /**
- * 
+ * 106ms
  * @param {number} numRows
  * @return {number[][]}
  */
